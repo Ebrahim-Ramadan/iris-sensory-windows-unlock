@@ -1,0 +1,18 @@
+2026-01-18 15:56:56 | ==== Script started ====
+2026-01-18 15:56:56 | PIN loaded successfully
+2026-01-18 15:56:56 | CRASH: module 'mediapipe' has no attribute 'solutions'
+2026-01-18 15:56:56 | Traceback (most recent call last):
+  File "E:\iris-sensory-windows-unlock\unlock.py", line 51, in <module>
+    mp_face_mesh = mp.solutions.face_mesh
+                   ^^^^^^^^^^^^
+AttributeError: module 'mediapipe' has no attribute 'solutions'
+
+2026-01-18 15:57:41 | ==== Script started ====
+2026-01-18 15:57:41 | PIN loaded successfully
+2026-01-18 15:57:41 | CRASH: module 'mediapipe' has no attribute 'solutions'
+2026-01-18 15:57:41 | Traceback (most recent call last):
+  File "E:\iris-sensory-windows-unlock\unlock.py", line 51, in <module>
+    mp_face_mesh = mp.solutions.face_mesh
+                   ^^^^^^^^^^^^
+AttributeError: module 'mediapipe' has no attribute 'solutions'
+
